@@ -1,0 +1,111 @@
+    SkillButton
+      id: skillId0
+      SkillNameLabel
+        !text: tr('Fist Fighting')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId1
+      SkillNameLabel
+        !text: tr('Club Fighting')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId2
+      SkillNameLabel
+        !text: tr('Sword Fighting')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId3
+      SkillNameLabel
+        !text: tr('Axe Fighting')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId4
+      SkillNameLabel
+        !text: tr('Dagger Fighting')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId5
+      SkillNameLabel
+        !text: tr('Distance Fighting')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId6
+      SkillNameLabel
+        !text: tr('Shielding')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId7
+      SkillNameLabel
+        !text: tr('Performing')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId8
+      SkillNameLabel
+        !text: tr('Mining')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId9
+      SkillNameLabel
+        !text: tr('Woodcutting')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton    
+      id: skillId10
+      SkillNameLabel
+        !text: tr('Carving')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton    
+      id: skillId11
+      SkillNameLabel
+        !text: tr('Gathering')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton    
+      id: skillId12
+      SkillNameLabel
+        !text: tr('Alchemy')
+      SkillValueLabel
+      SkillPercentPanel 
+
+    SkillButton    
+      id: skillId13
+      SkillNameLabel
+        !text: tr('Hunting')
+      SkillValueLabel
+      SkillPercentPanel 
+
+    SkillButton
+      id: skillId14
+      SkillNameLabel
+        !text: tr('Fishing')
+      SkillValueLabel
+      SkillPercentPanel
+
+    SkillButton
+      id: skillId15
+      SkillNameLabel
+        !text: tr('Cooking')
+      SkillValueLabel
+      SkillPercentPanel
